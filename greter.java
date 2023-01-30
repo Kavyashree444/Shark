@@ -7,4 +7,4 @@ private Greeter greeter;
 
   @Test
   public void greetShouldIncludeTheOneBeingGreeted() {
-    String someone = "World";
+    String someone = "Future";
